@@ -1,0 +1,251 @@
+[
+  {
+    "sku": "MagHolder02",
+    "images": [
+      "data/images/MagHolder02/MagHolder02_1.jpg",
+      "data/images/MagHolder02/MagHolder02_2.jpg",
+      "data/images/MagHolder02/MagHolder02_3.jpg",
+      "data/images/MagHolder02/MagHolder02_4.jpg",
+      "data/images/MagHolder02/MagHolder02_5.jpg",
+      "data/images/MagHolder02/MagHolder02_6.jpg",
+      "data/images/MagHolder02/MagHolder02_7.jpg",
+      "data/images/MagHolder02/MagHolder02_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/41Am2YyTvmL.jpg",
+      "https://m.media-amazon.com/images/I/718xgqTlwbL.jpg",
+      "https://m.media-amazon.com/images/I/41MRrDrtFnL.jpg",
+      "https://m.media-amazon.com/images/I/71NzurWEYHL.jpg",
+      "https://m.media-amazon.com/images/I/512-rH9RifL.jpg",
+      "https://m.media-amazon.com/images/I/71AAJTpRwCL.jpg",
+      "https://m.media-amazon.com/images/I/41XqW022sAL.jpg",
+      "https://m.media-amazon.com/images/I/71RUt4koYxL.jpg"
+    ]
+  },
+  {
+    "sku": "MagHolder04",
+    "images": [
+      "data/images/MagHolder04/MagHolder04_1.jpg",
+      "data/images/MagHolder04/MagHolder04_2.jpg",
+      "data/images/MagHolder04/MagHolder04_3.jpg",
+      "data/images/MagHolder04/MagHolder04_4.jpg",
+      "data/images/MagHolder04/MagHolder04_5.jpg",
+      "data/images/MagHolder04/MagHolder04_6.jpg",
+      "data/images/MagHolder04/MagHolder04_7.jpg",
+      "data/images/MagHolder04/MagHolder04_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/71Kbrp0UIjL.jpg",
+      "https://m.media-amazon.com/images/I/41Gowf3fLBL.jpg",
+      "https://m.media-amazon.com/images/I/71tYSrPUhML.jpg",
+      "https://m.media-amazon.com/images/I/418rTLkjl2L.jpg",
+      "https://m.media-amazon.com/images/I/61mdQC2nZyL.jpg",
+      "https://m.media-amazon.com/images/I/51dWYlzLA4L.jpg",
+      "https://m.media-amazon.com/images/I/71i4QkkZc0L.jpg",
+      "https://m.media-amazon.com/images/I/41lKf1oWy+L.jpg"
+    ]
+  },
+  {
+    "sku": "StickerPack03",
+    "images": [
+      "data/images/StickerPack03/StickerPack03_1.jpg",
+      "data/images/StickerPack03/StickerPack03_2.jpg",
+      "data/images/StickerPack03/StickerPack03_3.jpg",
+      "data/images/StickerPack03/StickerPack03_4.jpg",
+      "data/images/StickerPack03/StickerPack03_5.jpg",
+      "data/images/StickerPack03/StickerPack03_6.jpg",
+      "data/images/StickerPack03/StickerPack03_7.jpg",
+      "data/images/StickerPack03/StickerPack03_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/91h6NeU6NfL.jpg",
+      "https://m.media-amazon.com/images/I/61Qxxs6MFwL.jpg",
+      "https://m.media-amazon.com/images/I/81bUOF-PrTL.jpg",
+      "https://m.media-amazon.com/images/I/51bQX6yqfhL.jpg",
+      "https://m.media-amazon.com/images/I/81oRwp-g46L.jpg",
+      "https://m.media-amazon.com/images/I/41y5LRnS7EL.jpg",
+      "https://m.media-amazon.com/images/I/71leluy7QTL.jpg",
+      "https://m.media-amazon.com/images/I/41oKvzhZQuL.jpg"
+    ]
+  },
+  {
+    "sku": "StickerPack01",
+    "images": [
+      "data/images/StickerPack01/StickerPack01_1.jpg",
+      "data/images/StickerPack01/StickerPack01_2.jpg",
+      "data/images/StickerPack01/StickerPack01_3.jpg",
+      "data/images/StickerPack01/StickerPack01_4.jpg",
+      "data/images/StickerPack01/StickerPack01_5.jpg",
+      "data/images/StickerPack01/StickerPack01_6.jpg",
+      "data/images/StickerPack01/StickerPack01_7.jpg",
+      "data/images/StickerPack01/StickerPack01_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/512nxQRPPlL.jpg",
+      "https://m.media-amazon.com/images/I/8135DcKraSL.jpg",
+      "https://m.media-amazon.com/images/I/51SIFLbFxSL.jpg",
+      "https://m.media-amazon.com/images/I/71lJeAduM4L.jpg",
+      "https://m.media-amazon.com/images/I/51bKhnFjsHL.jpg",
+      "https://m.media-amazon.com/images/I/71uuZRSBqWL.jpg",
+      "https://m.media-amazon.com/images/I/518+ka3+2vL.jpg",
+      "https://m.media-amazon.com/images/I/61AedOUwI1L.jpg"
+    ]
+  },
+  {
+    "sku": "MagHolder06",
+    "images": [
+      "data/images/MagHolder06/MagHolder06_1.jpg",
+      "data/images/MagHolder06/MagHolder06_2.jpg",
+      "data/images/MagHolder06/MagHolder06_3.jpg",
+      "data/images/MagHolder06/MagHolder06_4.jpg",
+      "data/images/MagHolder06/MagHolder06_5.jpg",
+      "data/images/MagHolder06/MagHolder06_6.jpg",
+      "data/images/MagHolder06/MagHolder06_7.jpg",
+      "data/images/MagHolder06/MagHolder06_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/41JKgam4b-L.jpg",
+      "https://m.media-amazon.com/images/I/71UbDsQcHHL.jpg",
+      "https://m.media-amazon.com/images/I/41vQIyVVZaL.jpg",
+      "https://m.media-amazon.com/images/I/815wrjErorL.jpg",
+      "https://m.media-amazon.com/images/I/41SB-r4y4bL.jpg",
+      "https://m.media-amazon.com/images/I/81R6zjjg7qL.jpg",
+      "https://m.media-amazon.com/images/I/41nfIVzErOL.jpg",
+      "https://m.media-amazon.com/images/I/81ft0r2o5CL.jpg"
+    ]
+  },
+  {
+    "sku": "StickerPack05",
+    "images": [
+      "data/images/StickerPack05/StickerPack05_1.jpg",
+      "data/images/StickerPack05/StickerPack05_2.jpg",
+      "data/images/StickerPack05/StickerPack05_3.jpg",
+      "data/images/StickerPack05/StickerPack05_4.jpg",
+      "data/images/StickerPack05/StickerPack05_5.jpg",
+      "data/images/StickerPack05/StickerPack05_6.jpg",
+      "data/images/StickerPack05/StickerPack05_7.jpg",
+      "data/images/StickerPack05/StickerPack05_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/81KAhcY9JJL.jpg",
+      "https://m.media-amazon.com/images/I/61iTqQvRUlL.jpg",
+      "https://m.media-amazon.com/images/I/71gDjQK1vrL.jpg",
+      "https://m.media-amazon.com/images/I/51HqZLSD6DL.jpg",
+      "https://m.media-amazon.com/images/I/618mlgri3PL.jpg",
+      "https://m.media-amazon.com/images/I/41kwjEAjN6L.jpg",
+      "https://m.media-amazon.com/images/I/71K4cZnj9lL.jpg",
+      "https://m.media-amazon.com/images/I/51C7yMmnR1L.jpg"
+    ]
+  },
+  {
+    "sku": "Adhesive01",
+    "images": [
+      "data/images/Adhesive01/Adhesive01_1.jpg",
+      "data/images/Adhesive01/Adhesive01_2.jpg",
+      "data/images/Adhesive01/Adhesive01_3.jpg",
+      "data/images/Adhesive01/Adhesive01_4.jpg",
+      "data/images/Adhesive01/Adhesive01_5.jpg",
+      "data/images/Adhesive01/Adhesive01_6.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/61FXyPV9eiL.jpg",
+      "https://m.media-amazon.com/images/I/31ZVouW2EcL.jpg",
+      "https://m.media-amazon.com/images/I/71THiVo665L.jpg",
+      "https://m.media-amazon.com/images/I/41+9Bs9e4nL.jpg",
+      "https://m.media-amazon.com/images/I/71N+rn2oYmL.jpg",
+      "https://m.media-amazon.com/images/I/51blJiGKd-L.jpg"
+    ]
+  },
+  {
+    "sku": "StickerPack04",
+    "images": [
+      "data/images/StickerPack04/StickerPack04_1.jpg",
+      "data/images/StickerPack04/StickerPack04_2.jpg",
+      "data/images/StickerPack04/StickerPack04_3.jpg",
+      "data/images/StickerPack04/StickerPack04_4.jpg",
+      "data/images/StickerPack04/StickerPack04_5.jpg",
+      "data/images/StickerPack04/StickerPack04_6.jpg",
+      "data/images/StickerPack04/StickerPack04_7.jpg",
+      "data/images/StickerPack04/StickerPack04_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/91rtAUwkLJL.jpg",
+      "https://m.media-amazon.com/images/I/61QBDLMADzL.jpg",
+      "https://m.media-amazon.com/images/I/81m6s6zTm7L.jpg",
+      "https://m.media-amazon.com/images/I/51j0s-kh6TL.jpg",
+      "https://m.media-amazon.com/images/I/81Zkcse99NL.jpg",
+      "https://m.media-amazon.com/images/I/41NkggAoV3L.jpg",
+      "https://m.media-amazon.com/images/I/81KJFVtIhCL.jpg",
+      "https://m.media-amazon.com/images/I/417Os1I5ofL.jpg"
+    ]
+  },
+  {
+    "sku": "PB-R5M6-S3DY",
+    "images": [
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_1.jpg",
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_2.jpg",
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_3.jpg",
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_4.jpg",
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_5.jpg",
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_6.jpg",
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_7.jpg",
+      "data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/71+JYalLRLL.jpg",
+      "https://m.media-amazon.com/images/I/41fge1IZzVL.jpg",
+      "https://m.media-amazon.com/images/I/81J341zO20L.jpg",
+      "https://m.media-amazon.com/images/I/51IR+o8wpoL.jpg",
+      "https://m.media-amazon.com/images/I/81oqPu0mbYL.jpg",
+      "https://m.media-amazon.com/images/I/51+f5ehZSJL.jpg",
+      "https://m.media-amazon.com/images/I/813eGZiuCTL.jpg",
+      "https://m.media-amazon.com/images/I/51GRjveKJEL.jpg"
+    ]
+  },
+  {
+    "sku": "PadelHolder01",
+    "images": [
+      "data/images/PadelHolder01/PadelHolder01_1.jpg",
+      "data/images/PadelHolder01/PadelHolder01_2.jpg",
+      "data/images/PadelHolder01/PadelHolder01_3.jpg",
+      "data/images/PadelHolder01/PadelHolder01_4.jpg",
+      "data/images/PadelHolder01/PadelHolder01_5.jpg",
+      "data/images/PadelHolder01/PadelHolder01_6.jpg",
+      "data/images/PadelHolder01/PadelHolder01_7.jpg",
+      "data/images/PadelHolder01/PadelHolder01_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/716946zW-UL.jpg",
+      "https://m.media-amazon.com/images/I/413I2mWyNHL.jpg",
+      "https://m.media-amazon.com/images/I/81+uUR+xi7L.jpg",
+      "https://m.media-amazon.com/images/I/51TwoM0zHXL.jpg",
+      "https://m.media-amazon.com/images/I/81pe3TGi9SL.jpg",
+      "https://m.media-amazon.com/images/I/51+2rnmd41L.jpg",
+      "https://m.media-amazon.com/images/I/81PGu8jGduL.jpg",
+      "https://m.media-amazon.com/images/I/51VePV7djkL.jpg"
+    ]
+  },
+  {
+    "sku": "StickerPack02",
+    "images": [
+      "data/images/StickerPack02/StickerPack02_1.jpg",
+      "data/images/StickerPack02/StickerPack02_2.jpg",
+      "data/images/StickerPack02/StickerPack02_3.jpg",
+      "data/images/StickerPack02/StickerPack02_4.jpg",
+      "data/images/StickerPack02/StickerPack02_5.jpg",
+      "data/images/StickerPack02/StickerPack02_6.jpg",
+      "data/images/StickerPack02/StickerPack02_7.jpg",
+      "data/images/StickerPack02/StickerPack02_8.jpg"
+    ],
+    "source_urls": [
+      "https://m.media-amazon.com/images/I/91i70y3PMPL.jpg",
+      "https://m.media-amazon.com/images/I/612d8fLfaSL.jpg",
+      "https://m.media-amazon.com/images/I/71u+DNuzfzL.jpg",
+      "https://m.media-amazon.com/images/I/41UX33ikqIL.jpg",
+      "https://m.media-amazon.com/images/I/81PqWBcLo4L.jpg",
+      "https://m.media-amazon.com/images/I/41PiV4NBcTL.jpg",
+      "https://m.media-amazon.com/images/I/71DK84hYNVL.jpg",
+      "https://m.media-amazon.com/images/I/41m0eP0MpgL.jpg"
+    ]
+  }
+]

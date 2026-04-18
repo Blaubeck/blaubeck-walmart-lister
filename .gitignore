@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+data/amz_inventory_raw.json
+data/amz_orders_30d.tsv
+data/listings_all.tsv
+data/listings_report_id.txt
