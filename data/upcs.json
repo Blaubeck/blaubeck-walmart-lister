@@ -1,0 +1,14 @@
+{
+  "_note": "Fill in the UPC (13-digit GS1 barcode) for each SKU on Monday 2026-04-20 after GS1 UK comes back online at 2pm. Then run: python src/build_feed.py && node src/submit_feed.js",
+  "MagHolder02": "PLACEHOLDER_FILL_MONDAY",
+  "MagHolder04": "PLACEHOLDER_FILL_MONDAY",
+  "StickerPack03": "PLACEHOLDER_FILL_MONDAY",
+  "StickerPack01": "5065017899035",
+  "MagHolder06": "PLACEHOLDER_FILL_MONDAY",
+  "StickerPack05": "PLACEHOLDER_FILL_MONDAY",
+  "Adhesive01": "PLACEHOLDER_FILL_MONDAY",
+  "StickerPack04": "PLACEHOLDER_FILL_MONDAY",
+  "PB-R5M6-S3DY": "PLACEHOLDER_FILL_MONDAY",
+  "PadelHolder01": "PLACEHOLDER_FILL_MONDAY",
+  "StickerPack02": "PLACEHOLDER_FILL_MONDAY"
+}

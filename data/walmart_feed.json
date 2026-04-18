@@ -1,0 +1,436 @@
+{
+  "MPItemFeedHeader": {
+    "sellingChannel": "marketplace",
+    "locale": "en_US",
+    "version": "5.0"
+  },
+  "MPItem": [
+    {
+      "sku": "MagHolder02",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Magnetic Phone Holder for Stroller, Bike, Treadmill - MagSafe Universal Mount",
+      "brand": "BLAUBECK",
+      "productCategory": "Cell Phone Mounts & Stands",
+      "shortDescription": "Universal magnetic phone mount for stroller, treadmill, golf push cart, Peloton, and steering wheel. MagSafe compatible with strong dual magnets.",
+      "keyFeatures": [
+        "Strong Dual Magnets - Securely holds iPhone and Android phones during movement",
+        "360 Degree Adjustable Rotation - Tilt and rotate phone to any viewing angle",
+        "Universal Fit - Attaches to strollers, treadmills, bikes, golf carts, steering wheels",
+        "MagSafe Compatible - Works with MagSafe cases or included metal ring for Android",
+        "Easy No-Tool Install - Clamp design fits round bars and flat surfaces"
+      ],
+      "description": "The BLAUBECK Magnetic Phone Holder is the universal mount built for people on the move. Strong dual magnets hold your iPhone or Android phone steady on strollers, treadmills, Peloton bikes, golf push carts, and steering wheels. The 360 degree adjustable ball joint lets you set the perfect viewing angle whether you are tracking a workout, following a recipe, or keeping the kids entertained on a walk. Works with MagSafe compatible cases out of the box, or use the included adhesive metal ring to make any phone magnetic. Simple clamp installs in seconds with no tools. Built from durable aluminum and high-strength magnets for everyday reliability.",
+      "keywords": "magnetic phone mount, stroller phone holder, treadmill phone mount, MagSafe bike mount, peloton phone holder, golf cart phone holder, universal phone holder, running phone mount",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder02/MagHolder02_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 19.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "MagHolder02",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "MagHolder04",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Thick Magnetic Phone Mount for Gym, Zinc Alloy, MagSafe and Android",
+      "brand": "BLAUBECK",
+      "productCategory": "Cell Phone Mounts & Stands",
+      "shortDescription": "Heavy-duty magnetic phone mount with dual-sided magnets. Sticks to squat racks, weight stacks, and metal gym equipment. MagSafe and Android compatible.",
+      "keyFeatures": [
+        "Dual-Sided Strong Magnets - Grips phone front while sticking to metal gym equipment",
+        "Zinc Alloy Build - All-metal body stands up to daily gym use",
+        "Adjustable Kickstand - Doubles as a desk stand for video calls",
+        "Works Anywhere Metal - Squat racks, cable machines, fridges, lockers",
+        "MagSafe and Android - MagSafe cases plus included adhesive ring for Android"
+      ],
+      "description": "Built for the gym, tough enough for anywhere. The BLAUBECK Thick Magnetic Phone Mount uses heavy-duty dual magnets to grip your iPhone or Android phone on one side while attaching to metal equipment on the other. Record workouts, follow guided programs, or watch Netflix between sets without a flimsy clamp. The zinc alloy body is machined to feel substantial, not plasticky, and the built-in kickstand flips out so the mount doubles as a desk stand. Sticks to squat racks, cable machines, weight stacks, lockers, filing cabinets, fridges, and any metal surface. Includes a self-adhesive metal ring for Android phones and non-MagSafe cases. Thick design, not pocket-sized but built to last.",
+      "keywords": "magnetic phone mount, gym phone holder, squat rack phone mount, MagSafe magnetic mount, metal phone mount, workout phone holder, magnetic mount Android, strong magnetic phone stand",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder04/MagHolder04_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 19.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "MagHolder04",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "StickerPack03",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Gym Stickers 45 Pack, Waterproof Vinyl Workout Stickers for Water Bottles",
+      "brand": "BLAUBECK",
+      "productCategory": "Stickers & Decals",
+      "shortDescription": "45 waterproof vinyl gym and workout stickers. Perfect for water bottles, laptops, planners, and gym bags. Glossy finish with motivational designs.",
+      "keyFeatures": [
+        "45 Unique Designs - Motivational quotes, dumbbells, barbells, and fitness icons",
+        "Waterproof Glossy Vinyl - Safe for water bottles, shaker cups, and outdoor use",
+        "Easy Peel and Stick - Clean removal, repositionable within minutes",
+        "Aesthetic Gym Decor - Mix and match for workout journals, lockers, and gym walls",
+        "Fitness Gift - Perfect for gym goers, CrossFit fans, and personal trainers"
+      ],
+      "description": "The BLAUBECK 45-pack Gym Stickers turn any water bottle, laptop, planner, or gym bag into a motivation board. Printed on premium glossy vinyl with a waterproof top coat, every sticker stays vivid and sharp through daily workouts, dishwashers (top rack), and rainy commutes. The curated set mixes bold quotes, dumbbells, barbells, protein shakes, and aesthetic fitness icons so you can personalize your setup without looking cluttered. Each sticker is die-cut, so there is no excess backing to trim, just peel and stick. Works as a thoughtful gift for the fitness fan in your life, a personal trainer, a CrossFit enthusiast, or anyone building out a home gym. Sheet size varies per design for visual balance.",
+      "keywords": "gym stickers, workout stickers, waterproof stickers, fitness stickers, water bottle stickers, laptop stickers, aesthetic stickers, gym gifts, vinyl stickers",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack03/StickerPack03_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 8.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "StickerPack03",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "StickerPack01",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "5065017899035"
+      },
+      "productName": "BLAUBECK 34 Pack Running Stickers for Water Bottles and Laptops, Marathon Runner Gifts",
+      "brand": "BLAUBECK",
+      "productCategory": "Stickers & Decals",
+      "shortDescription": "34 waterproof vinyl running stickers. Track, cross country, marathon, and runner-themed designs. Ideal gift for runners and running clubs.",
+      "keyFeatures": [
+        "34 Running-Themed Designs - Marathon, XC, track, and running club motifs",
+        "Waterproof Vinyl - Stays vibrant on water bottles, hydration flasks, and laptops",
+        "Runner Gift - Great for marathon finishers, track teams, and running clubs",
+        "Glossy Finish - Scratch-resistant, looks premium on any surface",
+        "Easy Peel - Die-cut, clean application, no scissors needed"
+      ],
+      "description": "A curated 34-pack of running stickers built for the people who lace up every morning. Each die-cut vinyl sticker features a different running motif including marathon, cross country, track, runner girl, running club, and classic medal and shoe illustrations. The glossy waterproof finish holds up on stainless steel water bottles, hydration flasks, running belts, laptops, and bullet journals. Great gift for marathoners, XC athletes, track coaches, running club members, and anyone chasing a PR. Light, flat, and fits in a card for easy mailing.",
+      "keywords": "running stickers, marathon stickers, runner gifts, cross country stickers, track stickers, water bottle stickers, running club gifts, runner girl stickers, XC stickers",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack01/StickerPack01_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 9.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "StickerPack01",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "MagHolder06",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Magnetic Phone Holder for Gym, Carbon Fiber with 360 Ball Joint MagSafe",
+      "brand": "BLAUBECK",
+      "productCategory": "Cell Phone Mounts & Stands",
+      "shortDescription": "Magnetic gym phone mount with carbon fiber face and transparent acrylic disc. Ball joint 360 rotation, fits squat racks, golf carts, and metal equipment.",
+      "keyFeatures": [
+        "Carbon Fiber Finish - Premium look with transparent acrylic magnetic disc",
+        "360 Degree Ball Joint - Tilt and rotate phone to any angle",
+        "Strong Magnetic Hold - Keeps phone secure during lifts and rides",
+        "Sticks to Metal - Squat racks, cable machines, golf carts, lockers",
+        "Metal Ring Included - Use with MagSafe cases or Android phones"
+      ],
+      "description": "The BLAUBECK Magnetic Phone Holder pairs a carbon fiber face with a clear acrylic magnetic disc for a premium look that fits home gyms, offices, and golf bags. The ball joint mount rotates 360 degrees so you can dial in the perfect angle whether filming a workout set, guiding a golf swing, or following a recipe. The back magnet grips metal squat racks, cable machines, golf carts, lockers, and treadmills instantly. Works with MagSafe-compatible iPhone cases or pair the included adhesive metal ring with your Android phone or non-MagSafe case. Built for daily gym use with reinforced joints that do not sag.",
+      "keywords": "magnetic phone holder, gym phone mount, MagSafe phone mount, carbon fiber phone holder, squat rack phone mount, 360 phone holder, golf cart phone mount, Android phone mount",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/MagHolder06/MagHolder06_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 19.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "MagHolder06",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "StickerPack05",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Coffee Stickers 46 Pack, Cute Kawaii Coffee Decals Waterproof Vinyl",
+      "brand": "BLAUBECK",
+      "productCategory": "Stickers & Decals",
+      "shortDescription": "46 cute kawaii coffee stickers. Waterproof glossy vinyl for water bottles, laptops, tumblers, and planners. Coffee lover gift.",
+      "keyFeatures": [
+        "46 Kawaii Coffee Designs - Latte art, coffee cups, beans, and coffee quotes",
+        "Waterproof Glossy Vinyl - Safe for tumblers, laptops, and daily use",
+        "Coffee Lover Gift - Great for baristas, coffee shop owners, and coffee enthusiasts",
+        "Coffee Bar Decor - Mix with menu boards, mugs, and planner spreads",
+        "Party Favors - Coffee-themed parties, bridal showers, teacher gifts"
+      ],
+      "description": "46 adorable kawaii coffee stickers that turn any tumbler, laptop, planner, or coffee bar into a caffeine-fueled mood board. Each design is printed on premium glossy vinyl with a waterproof top coat so stickers survive coffee spills, condensation, and the occasional dishwasher run. The curated set blends latte art, espresso shots, bean illustrations, pun-filled coffee quotes, and pastel-cute cup characters. Great as a gift for baristas, coffee lovers, work-from-home caffeine addicts, or teachers. Also works as party favors for coffee-themed celebrations, bridal showers, or as stocking stuffers.",
+      "keywords": "coffee stickers, kawaii stickers, waterproof stickers, coffee lover gift, barista gift, tumbler stickers, laptop stickers, coffee bar decor, cute coffee decals",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack05/StickerPack05_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 9.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "StickerPack05",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "Adhesive01",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Adhesive Wall Hooks 4 Pack, Heavy-Duty No-Drill Hooks with Screws",
+      "brand": "BLAUBECK",
+      "productCategory": "Command Hooks",
+      "shortDescription": "4-pack adhesive wall hooks with screw backup. Heavy-duty for medal holders, key racks, and decor. No drill required.",
+      "keyFeatures": [
+        "4 Pack Heavy-Duty Hooks - Supports up to 5 pounds each",
+        "Peel and Stick, No Drill - Strong adhesive sticks to most clean flat surfaces",
+        "Screws Included - Permanent install option for long-term use",
+        "Invisible Flush Mount - Clean modern design does not clutter walls",
+        "Medal Display Ready - Pairs with runner medal holders, keys, mugs, light items"
+      ],
+      "description": "The BLAUBECK 4-Pack Adhesive Wall Hooks keep medal racks, key holders, and light wall decor securely in place without drilling holes. Each hook uses an industrial-grade adhesive backing that sticks to painted walls, tile, glass, metal, and sealed wood. If you want a permanent install or hang something heavier, use the included screws. Matte white finish stays invisible against common wall colors so the focus stays on what you are displaying. Designed to pair with BLAUBECK medal holders and race bib displays but works with any hook-mounted item up to 5 pounds per hook.",
+      "keywords": "adhesive wall hooks, no drill hooks, heavy duty hooks, medal display hooks, wall hooks without nails, stick on hooks, strong adhesive hooks, peel and stick hooks",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/Adhesive01/Adhesive01_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/Adhesive01/Adhesive01_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/Adhesive01/Adhesive01_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/Adhesive01/Adhesive01_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/Adhesive01/Adhesive01_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/Adhesive01/Adhesive01_6.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 9.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "Adhesive01",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "StickerPack04",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Honduras Stickers 43 Pack, Roatan and Bay Islands Souvenir Vinyl Decals",
+      "brand": "BLAUBECK",
+      "productCategory": "Stickers & Decals",
+      "shortDescription": "43 Honduras-themed stickers featuring Roatan, Bay Islands, Copan, baleadas, and the Honduras flag. Matte vinyl finish.",
+      "keyFeatures": [
+        "43 Honduras Designs - Roatan, Bay Islands, Copan ruins, baleadas, catracho, flag",
+        "Matte Vinyl Finish - Low-glare, premium look for laptops and water bottles",
+        "Honduras Souvenir Gift - Great for travelers, expats, and Roatan divers",
+        "Waterproof - Safe for outdoor use and daily wear",
+        "Die-Cut - Each sticker individually cut for easy peel and stick"
+      ],
+      "description": "43 stickers celebrating Honduras and the Bay Islands. The curated pack features iconic designs for Roatan, Utila, Guanaja, Copan, Tegucigalpa, baleadas, catracho pride, and the Honduras flag. Printed on durable matte vinyl with a subtle finish that suits both laptops and water bottles. Waterproof coating handles Caribbean sun, rain, and condensation. Great for expats, returning travelers, Roatan scuba divers, dive shop staff, language students, and anyone proud of their Honduran heritage. Ships flat for easy gift mailing.",
+      "keywords": "Honduras stickers, Roatan stickers, Bay Islands decals, Honduras souvenir, catracho stickers, baleadas sticker, Honduras flag sticker, travel stickers Honduras, Copan stickers",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack04/StickerPack04_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 8.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "StickerPack04",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "PB-R5M6-S3DY",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Race Bib Holder 20 Pack, Clear Vinyl Sleeves for Marathon Bib Display",
+      "brand": "BLAUBECK",
+      "productCategory": "Home Decor Accents",
+      "shortDescription": "20 clear vinyl race bib sleeves plus 20 extra protectors. Displays and protects marathon, 5K, 10K, and triathlon bibs.",
+      "keyFeatures": [
+        "20 Clear Sleeves Plus 20 Extra Protectors - Double capacity for serious racers",
+        "Protects Race Bibs - Keeps paper bibs flat, unwrinkled, and acid-free",
+        "Premium Clear Vinyl - Displays full bib with no glare",
+        "Fits Standard Sizes - Works with 5K, 10K, half, full marathon, and tri bibs",
+        "Pairs with Medal Holders - Designed to hang from BLAUBECK medal displays"
+      ],
+      "description": "Protect your race history. The BLAUBECK Race Bib Holder 20 Pack is clear vinyl sleeves built to preserve paper race bibs from folding, fading, and acid damage. Each sleeve fits a standard 5K, 10K, half marathon, full marathon, and triathlon bib while keeping the full number, event name, and year readable. The top-loading design makes it easy to swap bibs without tape or staples. Comes with 20 bonus sleeves so you can keep upgrading your collection. Pairs with BLAUBECK medal holders to create a full runner trophy wall. A thoughtful gift for marathon finishers, triathletes, Ironman racers, and running coaches.",
+      "keywords": "race bib holder, marathon bib display, bib protector, race bib sleeves, runner gift, bib display holder, marathon memorabilia, triathlon bib holder, running bib display",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PB-R5M6-S3DY/PB-R5M6-S3DY_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 17.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "PB-R5M6-S3DY",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "PadelHolder01",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK Padel Phone Holder for Glass Courts, MagSafe with Heavy-Duty Suction",
+      "brand": "BLAUBECK",
+      "productCategory": "Cell Phone Mounts & Stands",
+      "shortDescription": "Padel phone mount for glass courts. Heavy-duty double suction cup, aluminum arm, MagSafe compatible. 360 adjustable for recording matches.",
+      "keyFeatures": [
+        "Double Heavy-Duty Suction - Stays locked on padel glass through long rallies",
+        "MagSafe Compatible - Snaps iPhone on instantly, metal ring included for Android",
+        "Aluminum Arm - Rigid build eliminates vibration during recording",
+        "360 Adjustable - Capture rallies from any angle on either side of the court",
+        "Padel Recording Made Easy - Built for club players, coaches, content creators"
+      ],
+      "description": "Record every rally. The BLAUBECK Padel Phone Holder was designed specifically for padel glass courts, with a double suction cup system that locks into place and holds through full matches. The aluminum arm resists shake and vibration so your footage stays stable, and the 360 degree ball joint lets you frame a court perfectly whether you are recording doubles from the back glass or tracking a coach demo from the side. MagSafe compatible for instant iPhone attachment, or use the included adhesive metal ring with an Android phone or non-MagSafe case. Ideal for club players tracking progress, padel coaches analyzing technique, and content creators filming matches or drills.",
+      "keywords": "padel phone holder, padel glass court mount, padel recording, suction cup phone mount, MagSafe padel, padel accessories, court phone holder, padel camera mount, iPhone padel mount",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/PadelHolder01/PadelHolder01_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 39.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "PadelHolder01",
+      "countryOfOriginAssembly": "CN"
+    },
+    {
+      "sku": "StickerPack02",
+      "productIdentifiers": {
+        "productIdType": "UPC",
+        "productId": "UPC_PLACEHOLDER_FILL_MONDAY"
+      },
+      "productName": "BLAUBECK 34 Pack Neon Running Stickers for Water Bottles and Laptops",
+      "brand": "BLAUBECK",
+      "productCategory": "Stickers & Decals",
+      "shortDescription": "34 vibrant neon running stickers. Track, cross country, marathon, and runner designs. Gift for runners.",
+      "keyFeatures": [
+        "34 Neon Running Designs - Bold fluorescent colors, marathon and track motifs",
+        "Waterproof Vinyl - Holds up on hydration flasks, laptops, and running belts",
+        "Runner Gift Set - Ideal for marathoners, XC teams, and track club members",
+        "Glossy Finish - Premium look that pops on any surface",
+        "Die-Cut - Easy peel and stick, no trimming needed"
+      ],
+      "description": "A 34-pack of running stickers in bold neon palettes, designed for runners who like to stand out. Each sticker features a different running motif including marathon, cross country, track, runner girl, running club, and iconic medal and shoe illustrations. Printed on glossy waterproof vinyl so colors stay vibrant on stainless steel water bottles, hydration flasks, running belts, laptops, and bullet journals. Great gift for marathoners, XC athletes, track coaches, running club members, and anyone chasing a PR. Flat and lightweight, fits easily in a card or stocking.",
+      "keywords": "running stickers, neon stickers, marathon stickers, runner gifts, cross country stickers, track stickers, water bottle stickers, running club gifts, XC stickers",
+      "mainImageUrl": "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_1.jpg",
+      "productSecondaryImageURL": [
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_2.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_3.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_4.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_5.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_6.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_7.jpg",
+        "https://raw.githubusercontent.com/Blaubeck/blaubeck-walmart-lister/master/data/images/StickerPack02/StickerPack02_8.jpg"
+      ],
+      "price": {
+        "currency": "USD",
+        "amount": 9.99
+      },
+      "shippingWeight": 1.0,
+      "shippingWeightUnit": "lb",
+      "manufacturer": "BLAUBECK",
+      "manufacturerPartNumber": "StickerPack02",
+      "countryOfOriginAssembly": "CN"
+    }
+  ]
+}
