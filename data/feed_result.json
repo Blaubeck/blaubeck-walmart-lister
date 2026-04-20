@@ -1,0 +1,27 @@
+{
+  "feedId": "18A827264E5B5372A10646C247CAA006@AXkBBwA",
+  "feedStatus": "ERROR",
+  "feedSubmissionDate": 1776713098741,
+  "ingestionErrors": {
+    "ingestionError": [
+      {
+        "type": "DATA_ERROR",
+        "code": "EXT_DATA_ERROR_73506371016357",
+        "field": "specVersion",
+        "description": "The Item Spreadsheet you have submitted has been deprecated and is no longer supported. To proceed please download a copy of the latest item spreadsheet and  resubmit your request. Supporting Guides can be found here: https://marketplacelearn.walmart.com/guides/Item%20setup/Item%20setup%20methods/Add-items-in-bulk:-full-setup"
+      }
+    ]
+  },
+  "itemsReceived": 0,
+  "itemsSucceeded": 0,
+  "itemsFailed": 0,
+  "itemsProcessing": 0,
+  "offset": 0,
+  "limit": 50,
+  "itemDetails": {
+    "itemIngestionStatus": []
+  },
+  "batchId": "mp_item_api",
+  "createdBy": "GPS",
+  "channelType": "0f3e4dd4-0514-4346-b39d-af0e00ea066d"
+}

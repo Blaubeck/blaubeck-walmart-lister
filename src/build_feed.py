@@ -97,7 +97,7 @@ def main():
         "MPItemFeedHeader": {
             "sellingChannel": "marketplace",
             "locale": "en_US",
-            "version": "5.0",
+            "version": "4.2",
         },
         "MPItem": items,
     }
