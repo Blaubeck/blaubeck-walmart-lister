@@ -1,0 +1,548 @@
+[
+  {
+    "sku": "MagHolder02",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/718xgqTlwbL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 1638,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71NzurWEYHL.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 1638,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71AAJTpRwCL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 1638,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71RUt4koYxL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 1638,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81BEpOQOIHL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 1638,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71PG+VakS+L.jpg"
+      },
+      {
+        "variant": "PT06",
+        "w": 1638,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81SSuUxN3gL.jpg"
+      },
+      {
+        "variant": "PT07",
+        "w": 2048,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/61sFhhrY+sL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "MedalChalk01",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2000,
+        "url": "https://m.media-amazon.com/images/I/81s9wlNLhNL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 928,
+        "h": 1152,
+        "url": "https://m.media-amazon.com/images/I/71NkqnitiYL.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/61cfWZixqEL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 2560,
+        "h": 2133,
+        "url": "https://m.media-amazon.com/images/I/81-3mQWWaqL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/61mBSc6Su-L.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/71fMaqr9YdL.jpg"
+      },
+      {
+        "variant": "PT06",
+        "w": 2560,
+        "h": 2133,
+        "url": "https://m.media-amazon.com/images/I/81MfFvp8kmL.jpg"
+      },
+      {
+        "variant": "PT07",
+        "w": 2560,
+        "h": 2133,
+        "url": "https://m.media-amazon.com/images/I/81frQA0SZRL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "MagHolder04",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/71Kbrp0UIjL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/71tYSrPUhML.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 928,
+        "h": 1152,
+        "url": "https://m.media-amazon.com/images/I/61mdQC2nZyL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/71i4QkkZc0L.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/71CvsAqjkDL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/71AIKi4MQPL.jpg"
+      },
+      {
+        "variant": "PT06",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/71x+XCXS90L.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "StickerPack03",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2000,
+        "url": "https://m.media-amazon.com/images/I/91h6NeU6NfL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81bUOF-PrTL.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81oRwp-g46L.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71leluy7QTL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81D0+bD5LCL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81pGIkUN2jL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "StickerPack01",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 1920,
+        "h": 1920,
+        "url": "https://m.media-amazon.com/images/I/8135DcKraSL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 1024,
+        "h": 1024,
+        "url": "https://m.media-amazon.com/images/I/71lJeAduM4L.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 1024,
+        "h": 1024,
+        "url": "https://m.media-amazon.com/images/I/71uuZRSBqWL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 928,
+        "h": 1152,
+        "url": "https://m.media-amazon.com/images/I/61AedOUwI1L.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 1024,
+        "h": 1024,
+        "url": "https://m.media-amazon.com/images/I/71DC4YZFGUL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 1024,
+        "h": 1024,
+        "url": "https://m.media-amazon.com/images/I/61rGe4y4V2L.jpg"
+      },
+      {
+        "variant": "PT06",
+        "w": 1920,
+        "h": 1920,
+        "url": "https://m.media-amazon.com/images/I/51jxdWA6x+L.jpg"
+      },
+      {
+        "variant": "PT07",
+        "w": 1920,
+        "h": 1920,
+        "url": "https://m.media-amazon.com/images/I/61l7dXLgRZL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "MagHolder06",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/71UbDsQcHHL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/815wrjErorL.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/81R6zjjg7qL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/81ft0r2o5CL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/81wwT3bWHBL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/81vU8gvRIvL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "StickerPack05",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 1040,
+        "h": 1044,
+        "url": "https://m.media-amazon.com/images/I/81KAhcY9JJL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 896,
+        "h": 1200,
+        "url": "https://m.media-amazon.com/images/I/71gDjQK1vrL.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 896,
+        "h": 1200,
+        "url": "https://m.media-amazon.com/images/I/618mlgri3PL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 896,
+        "h": 1200,
+        "url": "https://m.media-amazon.com/images/I/71K4cZnj9lL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 896,
+        "h": 1200,
+        "url": "https://m.media-amazon.com/images/I/613j5AWVHvL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 896,
+        "h": 1200,
+        "url": "https://m.media-amazon.com/images/I/61eL1CImMtL.jpg"
+      },
+      {
+        "variant": "PT06",
+        "w": 896,
+        "h": 1200,
+        "url": "https://m.media-amazon.com/images/I/61Q724oS1hL.jpg"
+      },
+      {
+        "variant": "PT07",
+        "w": 896,
+        "h": 1200,
+        "url": "https://m.media-amazon.com/images/I/71Q6lehNEUL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "Adhesive01",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2500,
+        "url": "https://m.media-amazon.com/images/I/61FXyPV9eiL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 2000,
+        "h": 2000,
+        "url": "https://m.media-amazon.com/images/I/71THiVo665L.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 2000,
+        "h": 2000,
+        "url": "https://m.media-amazon.com/images/I/71N+rn2oYmL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "StickerPack04",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2000,
+        "url": "https://m.media-amazon.com/images/I/91rtAUwkLJL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81m6s6zTm7L.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81Zkcse99NL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81KJFVtIhCL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71LNa04C0gL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71rIsGeLdgL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "PB-R5M6-S3DY",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 1920,
+        "h": 1920,
+        "url": "https://m.media-amazon.com/images/I/71+JYalLRLL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/81J341zO20L.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/81oqPu0mbYL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/813eGZiuCTL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/81RuIoV3duL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 1800,
+        "h": 1500,
+        "url": "https://m.media-amazon.com/images/I/81P68ZC20NL.jpg"
+      },
+      {
+        "variant": "PT06",
+        "w": 2000,
+        "h": 2000,
+        "url": "https://m.media-amazon.com/images/I/71yKdNAeMTL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "PadelHolder01",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/716946zW-UL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/81+uUR+xi7L.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/81pe3TGi9SL.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/81PGu8jGduL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/81+gcltOt8L.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/81RVl25RkRL.jpg"
+      },
+      {
+        "variant": "PT06",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/819Uz8vaLsL.jpg"
+      },
+      {
+        "variant": "PT07",
+        "w": 1920,
+        "h": 2560,
+        "url": "https://m.media-amazon.com/images/I/81ndhBElmEL.jpg"
+      }
+    ]
+  },
+  {
+    "sku": "StickerPack02",
+    "variants": [
+      {
+        "variant": "MAIN",
+        "w": 2000,
+        "h": 2000,
+        "url": "https://m.media-amazon.com/images/I/91i70y3PMPL.jpg"
+      },
+      {
+        "variant": "PT01",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71u+DNuzfzL.jpg"
+      },
+      {
+        "variant": "PT02",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81PqWBcLo4L.jpg"
+      },
+      {
+        "variant": "PT03",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/71DK84hYNVL.jpg"
+      },
+      {
+        "variant": "PT04",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81rlsWiwokL.jpg"
+      },
+      {
+        "variant": "PT05",
+        "w": 2048,
+        "h": 2048,
+        "url": "https://m.media-amazon.com/images/I/81LkZ52TiNL.jpg"
+      }
+    ]
+  }
+]
